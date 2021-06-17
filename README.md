@@ -5,4 +5,4 @@
 - It's a random salt generator, you can put you own salt, but it's more secure if it's random
 - Docs: https://github.com/BcryptNet/bcrypt.net
 
-<img src="https://gyazo.com/f613303999f5f97d46456182d3f8c040">
+<img src="https://cdn.discordapp.com/attachments/853685439880757308/855100147250757672/f613303999f5f97d46456182d3f8c040.gif">
